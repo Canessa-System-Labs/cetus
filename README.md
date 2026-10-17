@@ -22,6 +22,12 @@ Cetus brings scattered context into one coherent working model, then moves throu
 <a name="watch"></a>
 <img src="assets/ch-watch.svg" width="100%" alt="04 Watch: Cetus, told in film">
 
+https://github.com/user-attachments/assets/fb0693c2-80a0-44ac-aae5-b968c0c01ab6
+
+https://github.com/user-attachments/assets/41b89b55-bc6c-4d06-a85d-d0ac1f7ceec8
+
+https://github.com/user-attachments/assets/fde1a2d3-d6f2-4449-b889-dd3e0ed5e10b
+
 <p align="center">
 <a href="https://canessasyslabs.com/cetus/"><img src="assets/film-1.svg" width="49%" alt="Cetus film: Calm intelligence. Opens the Cetus page."></a>
 <a href="https://canessasyslabs.com/cetus/"><img src="assets/film-2.svg" width="49%" alt="Cetus film: Structure from parts. Opens the Cetus page."></a>
