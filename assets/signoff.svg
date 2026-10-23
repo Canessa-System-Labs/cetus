@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 210" width="1200" height="210" role="img" aria-label="Canessa System Labs. Build in private. Present with intent. © Canessa System Labs. All rights reserved.">
 <title>Canessa System Labs. Build in private. Present with intent. © Canessa System Labs. All rights reserved.</title>
-<style>.draw{stroke-dasharray:1;stroke-dashoffset:1;animation:draw 1.4s ease-out forwards}@keyframes draw{to{stroke-dashoffset:0}}.fill{opacity:0;animation:in .5s 1.3s forwards}.pt{opacity:0;animation:in .4s 1.6s forwards}@keyframes in{to{opacity:1}}@media (prefers-reduced-motion: reduce){*{animation:none!important}}</style>
+<style>.draw{stroke-dasharray:1;stroke-dashoffset:1;animation:draw 1.4s ease-out forwards}@keyframes draw{to{stroke-dashoffset:0}}.fill{opacity:0;animation:in .5s 1.3s forwards}.pt{opacity:0;animation:in .4s 1.6s forwards}@keyframes in{to{opacity:1}}@media (prefers-reduced-motion: reduce){*{animation-duration:1ms!important;animation-delay:0s!important;animation-iteration-count:1!important;animation-fill-mode:forwards!important}}</style>
 <defs>
   <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#1f2125"/><stop offset="1" stop-color="#18191c"/></linearGradient>
   <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#2dd4bf"/><stop offset=".5" stop-color="#818cf8"/><stop offset="1" stop-color="#c084fc"/></linearGradient>
