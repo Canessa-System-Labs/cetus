@@ -1,6 +1,6 @@
 <p align="center"><a href="https://canessasyslabs.com/cetus/"><img src="assets/hero.svg" width="100%" alt="Cetus: The evolving cognitive agent. Turns intent, fragmented information and complex requirements into structured work and evidence-backed outcomes, with decisions traceable and authority explicit."></a></p>
 
-<p align="center"><img src="assets/badges.svg" alt="Status In testing · version 0.2.1 · Agent · Instruction package · All rights reserved"></p>
+<p align="center"><img src="assets/badges.svg" alt="Status In testing · version 0.2.2 · Agent · Instruction package · All rights reserved"></p>
 
 <p align="center"><a href="https://canessasyslabs.com/cetus/"><b>See it on canessasyslabs.com&nbsp;&nbsp;→</b></a></p>
 
@@ -39,7 +39,7 @@ https://github.com/user-attachments/assets/fde1a2d3-d6f2-4449-b889-dd3e0ed5e10b
 <a name="where-it-stands"></a>
 <img src="assets/ch-where-it-stands.svg" width="100%" alt="05 Where it stands: Honest status, enforced by the build">
 
-<img src="assets/status.svg" width="100%" alt="Status: now Testing; release 0.2.1 · private ChatGPT plugin; next Validate behavior on the target host, then an independent clean install and rollback.">
+<img src="assets/status.svg" width="100%" alt="Status: now Testing; release 0.2.2 · private ChatGPT plugin; next Validate behavior on the target host, then an independent clean install and rollback.">
 
 <img src="assets/stack.svg" width="100%" alt="Built with Codex, Portable instruction package, Structured-contract checks">
 
